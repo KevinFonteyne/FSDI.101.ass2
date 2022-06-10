@@ -1,0 +1,36 @@
+header{
+    text-align: center;
+    background-image:url(https://th.bing.com/th/id/R.259ee61103be9ca8786dab0d3f0ba516?rik=DmE2qQJ5WIxVRQ&riu=http%3a%2f%2ffreeliquidtemplates.com%2ffree-headers-for-websites%2fheader3.jpg&ehk=u4HX4Us71qNXesMCFqpqk1GDNzb2qo6vDZHZdJWjdq4%3d&risl=&pid=ImgRaw&r=0);
+    background-position: center center;
+    background-size: cover;
+    border: 5px rgb(2, 83, 83);
+}
+h1{
+    color: rgb(7, 161, 161);
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+    text-shadow: 1px 1px rgb(1, 22, 90);
+    text-decoration-line: underline; 
+}
+h2{
+    color: rgb(7, 161, 161);
+    font-family: 'Oswald', sans-serif;
+    text-shadow: 1px 1px rgb(1, 22, 90); 
+}
+h3{
+    color: rgb(9, 75, 75);
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+p{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(7, 146, 30);
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(130, 218, 16, 0.541);
+    text-align: justify;
+}
+body{
+    background-color: rgba(127, 255, 212, 0.562);
+}
